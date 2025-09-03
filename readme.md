@@ -7,7 +7,7 @@ This application serves as an end-to-end demonstration of building, training, an
 ## 🚀 Live Demo
 
 You can try the live, deployed application here:  
-👉 **[Click Here to Access the Web App](https-your-streamlit-app-link-here)**
+👉 **[Click Here to Access the Web App](https://pixelbyteee-imdb-movie-review-sentiment-analyzer-main-5yphgz.streamlit.app/)**
 
 ## 📸 App Screenshot
 
